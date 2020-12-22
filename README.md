@@ -1,0 +1,2 @@
+# Linear Regression Assumptions
+ linear_regression_assumptions_r2_0_84_rmse_1_3
